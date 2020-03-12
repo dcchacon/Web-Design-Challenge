@@ -2,7 +2,9 @@ body {
     background: rgb(230, 229, 229);
 }
 
-.navbar-brand{
+
+
+#mylogo{
     background: rgb(40, 182, 182);
     padding: 12px;
     color:white;
@@ -57,6 +59,10 @@ p{
     padding-left: 25px;
     padding-right: 25px;
 }
+
+/* #lenmd4{
+    length: 100;  
+} */
 
 .col-md-10{
     background: rgb(252, 251, 251);
