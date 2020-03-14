@@ -42,6 +42,13 @@ p{
     padding-right: 25px;
 }
 
+@media only screen and (min-width: 200px) {
+    .imageresize {
+        width:"50%";
+        align-items: left;
+        background-color: purple;
+    }
+}
 .col-md-6{
     padding-right: 15px;
     padding-left: 15px;
